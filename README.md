@@ -16,5 +16,5 @@
 - 🔐 - Google Login & Authentication.
 - 👿 - Inbuild Censor System for Abusive and Evil Users (Currently Supports English & Hindi Language). 
 
-# `Futute Improvements`
+# `Future Improvements`
 #### Although I have Designed A Ban System For Evil Users but it requires Blaze account on firebase. So If I actually need to implement ban system in the future it can be an option. 
