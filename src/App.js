@@ -17,13 +17,7 @@ import { newBadWords } from './bad-word';
 
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCEIDsbY8pGlEjvUz0o62OKZX2mDpHHyfA",
-  authDomain: "chitchat-ghrcem-miniproject.firebaseapp.com",
-  projectId: "chitchat-ghrcem-miniproject",
-  storageBucket: "chitchat-ghrcem-miniproject.appspot.com",
-  messagingSenderId: "216534433347",
-  appId: "1:216534433347:web:d850abab0a4b4e6cb29ef6",
-  measurementId: "G-CZ11059SZ9"
+  //Your Firebase Configurations
 })
 
 const auth = firebase.auth()
